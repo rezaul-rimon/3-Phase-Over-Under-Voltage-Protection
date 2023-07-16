@@ -26,7 +26,6 @@ This project implements a voltage protection system using Arduino to monitor and
 
 ## Installation and Setup
 1. Clone the repository to your local machine using the following command: git clone https://github.com/rezaul-rimon/3-Phase-Over-Under-Voltage-Protection.git
-Replace `your-username` with your GitHub username and `voltage-protection` with the name of the repository.
 
 2. Connect the ZMPT101B voltage sensor, LCD display, potentiometer, and relays to the Arduino Uno according to the provided schematic or pin connections in the code.
 
